@@ -1,0 +1,115 @@
+
+ul.a {
+    list-style-type: circle;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly; 
+    width: 20%;
+    height: 50%;
+    background-color: rgb(228, 240, 68);
+  }
+  
+  ul.b {
+    list-style-type: square;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 20%;
+    height: 30%;
+    background-color: lightseagreen;
+    
+    
+    }
+  
+  ul.c {
+    list-style-type: circle;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 20%;
+    height: 30%;
+    background-color: rgb(205, 94, 50);
+  }
+  
+  ul.d {
+    list-style-type:square ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 20%;
+    height: 30%;
+    background-color: pink;
+  }
+  ul.e {
+    list-style-type: circle;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 20%;
+    height: 20%;
+    background-color: darkorange;
+  }
+  
+  ul.f {
+    list-style-type: square;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 20%;
+    height: 30%;
+    background-color: purple;
+  }
+  .oneflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  .twflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  .thrflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  .frflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  
+  .fvflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  
+  .sxflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  
+  .svflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  .eigflav
+  {
+    height: 30%;
+    width: 20%;
+    float:right;
+  }
+  
+  
+  

@@ -1,0 +1,11 @@
+.linkscakes{
+    background-color: #8a3a6f;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .linkscakes:hover, .linkscakes:active {
+    background-color: rgb(241, 100, 34);
+  }
